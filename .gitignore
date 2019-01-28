@@ -28,6 +28,7 @@ tsconfig.build.json
 .idea/
 *.swp
 .awcache
+*iml
 
 # Generated source-code #
 src/**/*.js
